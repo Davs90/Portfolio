@@ -28,60 +28,41 @@
 
 ## Introduction
 
+# Diego Villagra
+### Ingeniero Civil Industrial
 
-    <h1>Diego Villagra</h1>
-    <p>Ingeniero Civil Industrial</p>
-    
-    <p>
-        Soy un <strong>Ingeniero Civil Industrial</strong> recién egresado, enfocado en las áreas de gestión de empresas. Mi perfil es analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos.
-    </p>
-    <p>
-        Mi interés se centra en el manejo de datos tanto para la proyección como para la trazabilidad. Esto me permite ofrecer soluciones efectivas para la <strong>optimización de procesos</strong> y la <strong>toma de decisiones estratégicas</strong>.
-    </p>
-    <p>
-        Complemento mi formación académica con altas capacidades organizativas, que me permiten adaptarme con facilidad a distintos entornos, ya sean escenarios planificados o situaciones de cambio y bajo presión.
-    </p>
-    <p>
-        Mi experiencia laboral me ha demostrado ser una persona proactiva y capaz de solucionar problemas, explorando diversas alternativas y entregando los resultados requeridos, complementando mis conocimientos a través del autoaprendizaje.
-    </p>
+Soy **Ingeniero Civil Industrial** enfocado en la gestión de empresas. Poseo un perfil analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos, los cuales utilizo para ofrecer soluciones efectivas en la **optimización de procesos** y la **toma de decisiones estratégicas**.
 
-    <h2>Habilidades</h2>
-    <ul>
-        <li><strong>Análisis y Gestión de Datos:</strong>
-            <ul>
-                <li>Microsoft Excel y GoogleSheets Avanzado</li>
-                <li>Power BI Avanzado</li>
-                <li>MySQL Avanzado</li>
-                <li>Análisis Financiero y Econometría</li>
-            </ul>
-        </li>
-        <li><strong>Programación:</strong>
-            <ul>
-                <li>Python</li>
-                <li>R</li>
-                <li>JavaScript y C++</li>
-            </ul>
-        </li>
-        <li><strong>Software y Diseño:</strong>
-            <ul>
-                <li>Autocad Intermedio</li>
-                <li>Photoshop e Illustrator</li>
-            </ul>
-        </li>
-        <li><strong>Habilidades Blandas:</strong>
-            <ul>
-                <li>Liderazgo</li>
-                <li>Flexible ante cambios</li>
-                <li>Organizado y metódico</li>
-                <li>Habilidades en gestión organizacional y procesos</li>
-            </ul>
-        </li>
-        <li><strong>Idiomas:</strong>
-            <ul>
-                <li>Inglés Intermedio-Avanzado</li>
-            </ul>
-        </li>
-    </ul>
+Mi principal interés radica en el manejo de datos para la proyección y trazabilidad. Complemento mi formación con altas capacidades organizativas, lo que me permite adaptarme a distintos entornos, tanto en escenarios planificados como en situaciones de cambio y alta presión.
+
+Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zentagroup.com/)**, una aceleradora tecnológica. Mis tareas se centran en canalizar los requerimientos de los clientes para desarrollar propuestas tecnológicas, principalmente a través de herramientas y agentes de Inteligencia Artificial. Mi experiencia demuestra mi capacidad para resolver problemas de manera proactiva, explorar diversas alternativas y entregar resultados de valor, todo ello reforzado por un constante autoaprendizaje. 
+---
+
+## Habilidades
+
+### Análisis y Gestión de Datos
+* **Microsoft Excel** y **GoogleSheets Avanzado**
+* **Power BI Avanzado**
+* **MySQL Avanzado**
+* Análisis Financiero y Econometría
+
+### Programación
+* **Python**
+* **R**
+* JavaScript y C++
+
+### Software y Diseño
+* Autocad Intermedio
+* Photoshop e Illustrator
+
+### Habilidades Blandas
+* Liderazgo
+* Flexible ante cambios
+* Organizado y metódico
+* Habilidades en gestión organizacional y procesos
+
+### Idiomas
+* Inglés Intermedio-Avanzado
 
 
  
