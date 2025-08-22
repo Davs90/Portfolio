@@ -1,4 +1,4 @@
-<h1 align="center">Hola Soy Diego Villagra  👁️</h1>
+<h1 align="center">Hola Soy Diego Villagra  🤖</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -7,23 +7,15 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="">Analista de Datos</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <b><a href="">IA</a></b>
+    •
+  <b><a href="">Base de Datos</a></b>
+    •
+  <b><a href="">Innovacion Tecnologica</a></b>
+   •
+  <b><a href="">Data Science</a></b>
 </h3>
 
 ## Introduction
@@ -43,10 +35,23 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ### Análisis y Gestión de Datos
 * **Microsoft Excel** y **GoogleSheets Avanzado**
-* **Power BI Avanzado**
+* **Power BI y Looker Avanzado**
 * **MySQL Avanzado**
 * Análisis Financiero y Econometría
+* BigQuery
 
+### Innovacion Tecnologica
+* **n8n**
+* **Dify**
+* Dialogflow Conversational Agents
+* Draw.io
+* Bizagi
+* Miro
+* Copilot Studio
+* Manejo de GCP
+* Azure
+* CloudRun 
+  
 ### Programación
 * **Python**
 * **R**
