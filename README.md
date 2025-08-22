@@ -34,45 +34,45 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 ## Habilidades Técnicas
 
 ### Análisis y Visualización de Datos
-Microsoft Excel y Google Sheets Avanzado
-Power BI y Looker Studio Avanzado*
-Análisis Financiero y Econometría*
+* Microsoft Excel y Google Sheets Avanzado
+* Power BI y Looker Studio Avanzado*
+* Análisis Financiero y Econometría*
 
 ### Bases de Datos y Cloud Computing
-SQL (MySQL y BigQuery) Avanzado
-Manejo de GCP (Google Cloud Platform) y Azure
-Cloud Run
+* SQL (MySQL y BigQuery) Avanzado
+* Manejo de GCP (Google Cloud Platform) y Azure
+* Cloud Run
 
 ### Automatización e Inteligencia Artificial
-n8n y Dify (Herramientas de automatización y orquestación de flujos)
-Agentes Conversacionales (Dialogflow)*Copilot Studio
+* n8n y Dify (Herramientas de automatización y orquestación de flujos)
+* Agentes Conversacionales (Dialogflow)*Copilot Studio
 
 ### Programación
-Python
-R
-JavaScript y C++
+* Python
+* R
+* JavaScript y C++
 
 ---
 
 ## Habilidades de Gestión e Innovación
 
 ### Gestión de Proyectos y Procesos
-Bizagi y Draw.io (Modelado de procesos)
-Miro (Colaboración visual y diagramación)
-Habilidades en gestión organizacional y procesos
+* Bizagi y Draw.io (Modelado de procesos)
+* Miro (Colaboración visual y diagramación)
+* Habilidades en gestión organizacional y procesos
 
 ---
 
 ## Otras Habilidades
-Diseño y CAD: Photoshop, Illustrator y Autocad Intermedio
-Idiomas: Inglés Intermedio-Avanzado
+* Diseño y CAD: Photoshop, Illustrator y Autocad Intermedio
+* Idiomas: Inglés Intermedio-Avanzado
 
 ---
 
 ## Habilidades Blandas
-Liderazgo
-Flexible ante cambios
-Organizado y metódico
+* Liderazgo
+* Flexible ante cambios
+* Organizado y metódico
 
 
  
