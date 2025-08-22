@@ -78,7 +78,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ## TABLA DE CONTENIDOS 
 
-- [Introduccion](https://https://github.com/Davs90/Portfolio/edit/main/README.md#Introduccion)
+- [Introduccion](https://github.com/Davs90/Portfolio/edit/main/README.md#Introduccion)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
