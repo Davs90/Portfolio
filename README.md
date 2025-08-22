@@ -36,6 +36,7 @@ Soy **Ingeniero Civil Industrial** enfocado en la gestión de empresas. Poseo un
 Mi principal interés radica en el manejo de datos para la proyección y trazabilidad. Complemento mi formación con altas capacidades organizativas, lo que me permite adaptarme a distintos entornos, tanto en escenarios planificados como en situaciones de cambio y alta presión.
 
 Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zentagroup.com/)**, una aceleradora tecnológica. Mis tareas se centran en canalizar los requerimientos de los clientes para desarrollar propuestas tecnológicas, principalmente a través de herramientas y agentes de Inteligencia Artificial. Mi experiencia demuestra mi capacidad para resolver problemas de manera proactiva, explorar diversas alternativas y entregar resultados de valor, todo ello reforzado por un constante autoaprendizaje. 
+
 ---
 
 ## Habilidades
