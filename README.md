@@ -79,7 +79,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 ## TABLA DE CONTENIDOS 
 
 - [Introduccion](https://github.com/Davs90/Portfolio/edit/main/README.md#Introduccion)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Davs90/Portfolio/edit/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
@@ -91,6 +91,8 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
+
+## Portfolio Projects
 
  
 [🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
