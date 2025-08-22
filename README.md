@@ -18,7 +18,7 @@
   <b><a href="">Data Science</a></b>
 </h3>
 
-## Introduction
+## Introduccion
 
 # Diego Villagra
 ### Ingeniero Civil Industrial
