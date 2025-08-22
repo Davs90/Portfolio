@@ -28,7 +28,100 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Diego Villagra</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #ecf0f1;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Diego Villagra</h1>
+    <p>Ingeniero Civil Industrial</p>
+    
+    <p>
+        Soy un <strong>Ingeniero Civil Industrial</strong> recién egresado, enfocado en las áreas de gestión de empresas. Mi perfil es analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos.
+    </p>
+    <p>
+        Mi interés se centra en el manejo de datos tanto para la proyección como para la trazabilidad. Esto me permite ofrecer soluciones efectivas para la <strong>optimización de procesos</strong> y la <strong>toma de decisiones estratégicas</strong>.
+    </p>
+    <p>
+        Complemento mi formación académica con altas capacidades organizativas, que me permiten adaptarme con facilidad a distintos entornos, ya sean escenarios planificados o situaciones de cambio y bajo presión.
+    </p>
+    <p>
+        Mi experiencia laboral me ha demostrado ser una persona proactiva y capaz de solucionar problemas, explorando diversas alternativas y entregando los resultados requeridos, complementando mis conocimientos a través del autoaprendizaje.
+    </p>
+
+    <h2>Habilidades</h2>
+    <ul>
+        <li><strong>Análisis y Gestión de Datos:</strong>
+            <ul>
+                <li>Microsoft Excel y GoogleSheets Avanzado</li>
+                <li>Power BI Avanzado</li>
+                <li>MySQL Avanzado</li>
+                <li>Análisis Financiero y Econometría</li>
+            </ul>
+        </li>
+        <li><strong>Programación:</strong>
+            <ul>
+                <li>Python</li>
+                <li>R</li>
+                <li>JavaScript y C++</li>
+            </ul>
+        </li>
+        <li><strong>Software y Diseño:</strong>
+            <ul>
+                <li>Autocad Intermedio</li>
+                <li>Photoshop e Illustrator</li>
+            </ul>
+        </li>
+        <li><strong>Habilidades Blandas:</strong>
+            <ul>
+                <li>Liderazgo</li>
+                <li>Flexible ante cambios</li>
+                <li>Organizado y metódico</li>
+                <li>Habilidades en gestión organizacional y procesos</li>
+            </ul>
+        </li>
+        <li><strong>Idiomas:</strong>
+            <ul>
+                <li>Inglés Intermedio-Avanzado</li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>
  
 [🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
 
