@@ -94,8 +94,6 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ## Portfolio Projects
 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
 
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
