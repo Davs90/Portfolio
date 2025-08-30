@@ -1,6 +1,6 @@
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://github.com/Davs90/Portfolio/blob/main/docs/banneriagemini.png">
 
 <h1 align="center">Hola Soy Diego Villagra  🤖</h1>
 
