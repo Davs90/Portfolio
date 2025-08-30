@@ -81,12 +81,51 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 - [Introduccion](https://github.com/Davs90/Portfolio/blob/main/README.md#Introduccion)
 - [Portfolio Projects](https://github.com/Davs90/Portfolio/main/README.md#portfolio-projects)
 - [Python]
-  - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)  
+  - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/main/README.md#Python)
 - [Mysql]
   - [Analisis de visualizacion por peliculas/series en Netflix]
 - [Power BI]
 
-## Portfolio Projects
+
+---
+
+### Portfolio Projects
+
+##Python
+
+#📊 Análisis de Ventas de Super Store
+[Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)  
+
+Este proyecto se centra en el análisis de un conjunto de datos de ventas de una supertienda para descubrir información clave que pueda impulsar la toma de decisiones. El objetivo principal fue identificar los productos y ubicaciones con mayores ventas, así como analizar el rendimiento por categoría y subcategoría para obtener una comprensión profunda de las operaciones del negocio.
+
+#🛠️ Herramientas Utilizadas
+
+- Python: Lenguaje principal utilizado para el análisis y la visualización de datos.
+- Pandas: Usado para la manipulación y el análisis de datos, incluyendo la agrupación y la agregación de ventas por diferentes atributos.
+- Matplotlib: Biblioteca utilizada para crear visualizaciones estáticas, como gráficos de barras, para ilustrar los resultados del análisis.
+- Google Collab: El entorno de desarrollo donde se ejecutó todo el código y se documentó el proceso de análisis.
+
+#📈 Hallazgos Clave
+
+El análisis reveló información importante sobre el rendimiento de la supertienda:
+
+- Ventas por Categoría y Subcategoría: Se calculó el total de ventas para cada categoría principal (Muebles, Suministros de Oficina, Tecnología) y sus respectivas subcategorías. Los resultados mostraron que las subcategorías de Sillas, Teléfonos y Máquinas generaron las mayores ventas.
+
+- Top 10 Ciudades con Mayores Ventas: El análisis de las ventas por ciudad identificó las diez ubicaciones geográficas que contribuyeron más significativamente a los ingresos totales. Este hallazgo es crucial para enfocar los esfuerzos de marketing y logística en estas áreas de alto rendimiento.
+
+- Top 10 Productos más Vendidos: Al agrupar y sumar las ventas por nombre de producto, se identificaron los diez productos más populares. Conocer qué productos son los más vendidos ayuda a optimizar el inventario y las estrategias de promoción.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
