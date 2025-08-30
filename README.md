@@ -79,7 +79,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 ## TABLA DE CONTENIDOS 
 
 - [Introduccion](https://github.com/Davs90/Portfolio/blob/main/README.md#Introduccion)
-- [Portfolio Projects](https://github.com/Davs90/Portfolio/blob/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Davs90/Portfolio/main/README.md#portfolio-projects)
 - [Python]
   - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)  
 - [Mysql]
