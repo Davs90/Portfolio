@@ -80,11 +80,11 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 - [Introduccion](https://github.com/Davs90/Portfolio/blob/main/README.md#Introduccion)
 - [Portfolio Projects](https://github.com/Davs90/Portfolio/blob/main/README.md#portfolio-projects)
-- [Python](https://github.com/Davs90/Portfolio/blob/main/README.md#Python)
-  - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb]
-- [Mysql]
-  - [Analisis de visualizacion por peliculas/series en Netflix]
-- [Power BI]
+  - [Python](https://github.com/Davs90/Portfolio/blob/main/README.md#Python)
+    - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb]
+  - [Mysql]
+    - [Analisis de visualizacion por peliculas/series en Netflix]
+  - [Power BI]
 
 
 ---
