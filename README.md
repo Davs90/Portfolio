@@ -85,7 +85,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 - [Introduccion](https://github.com/Davs90/Portfolio/blob/main/README.md#Introduccion)
 - [Portfolio Projects](https://github.com/Davs90/Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/Davs90/Portfolio/blob/main/README.md#Python)
-    - [Analisis de Ventas de Superstore/SuperstoreSales.ipynb]
+    - [Analisis de Ventas de Superstore]
   - [Mysql]
     - [Analisis de visualizacion por peliculas/series en Netflix]
   - [Power BI]
@@ -106,8 +106,11 @@ Este proyecto se centra en el análisis de un conjunto de datos de ventas de una
 🛠️ Herramientas Utilizadas
 
 - Python: Lenguaje principal utilizado para el análisis y la visualización de datos.
+
 - Pandas: Usado para la manipulación y el análisis de datos, incluyendo la agrupación y la agregación de ventas por diferentes atributos.
+
 - Matplotlib: Biblioteca utilizada para crear visualizaciones estáticas, como gráficos de barras, para ilustrar los resultados del análisis.
+
 - Google Collab: El entorno de desarrollo donde se ejecutó todo el código y se documentó el proceso de análisis.
 
 📈 Hallazgos Clave
@@ -120,6 +123,58 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 
 - Top 10 Productos más Vendidos: Al agrupar y sumar las ventas por nombre de producto, se identificaron los diez productos más populares. Conocer qué productos son los más vendidos ayuda a optimizar el inventario y las estrategias de promoción.
 
+## MYSQL
+
+### Analisis de visualizacion por peliculas/series en Netflix
+
+🎬 Análisis de una Base de Datos de Películas y Series
+
+Este proyecto es un análisis exhaustivo de una base de datos relacional sobre películas y series de televisión. El objetivo principal fue explorar las relaciones entre diferentes atributos (calificaciones, géneros, actores, directores, etc.) para descubrir tendencias, patrones de rendimiento y responder preguntas clave sobre la industria del entretenimiento.
+
+El corazón de este análisis reside en las consultas SQL complejas que se escribieron para manipular y extraer la información necesaria directamente desde la base de datos, demostrando un dominio de las operaciones de bases de datos relacionales.
+
+🛠️ Herramientas y Tecnologías
+
+- MySQL: Sistema de gestión de bases de datos relacionales para almacenar y consultar los datos.
+
+- SQL (Structured Query Language): Lenguaje principal para la extracción y manipulación de datos, utilizando JOIN para combinar tablas, GROUP BY para agregaciones y ORDER BY para ordenar resultados.
+
+- Python: Utilizado para la conexión a la base de datos y, si fuera necesario, para el análisis posterior de los datos extraídos.
+
+- Jupyter Notebook: El entorno donde se documentaron las consultas y se presentaron los resultados.
+
+🧠 Metodología y Preguntas Clave
+
+La metodología se centró en formular y responder una serie de preguntas clave sobre los datos. Cada consulta SQL se diseñó para abordar un aspecto específico del conjunto de datos.
+
+- Evaluación de Calificaciones:
+
+  - Top 10 y Bottom 10: Se identificaron las películas y series con las mejores y peores calificaciones en IMDB para entender los extremos del rendimiento.
+
+  - Análisis de Calificaciones Promedio: Se calculó el promedio de los puntajes de IMDB y TMDB por tipo de contenido (película vs. serie), por país de producción y por certificación de edad para encontrar correlaciones.
+
+- Análisis Demográfico y de Tendencias:
+
+  - Conteo por Década: Se contó el número de títulos lanzados en cada década, revelando las épocas de mayor producción.
+
+  - Análisis de Roles Clave: Se identificaron los actores y directores más prolíficos, mostrando quiénes han tenido más presencia en la industria.
+
+- Análisis Específico de Contenido:
+
+  - Duración y Temporadas: Se calculó la duración promedio de películas y series, y se encontraron las series con el mayor número de temporadas.
+
+  - Rendimiento por Género: Se identificaron los géneros más comunes para películas y series, revelando las preferencias de la audiencia.
+
+💡 Ejemplos de Consultas y Hallazgos
+
+  - Top 10 Películas por IMDB Score:
+   Este tipo de consulta nos ayuda a identificar los títulos más aclamados por la crítica y la audiencia.
+
+  - Directores de Películas Altamente Calificadas:
+    Al combinar datos de dos tablas, se pudo identificar a los directores de películas con altas calificaciones de IMDB y una gran popularidad en TMDB, lo que sugiere una correlación entre estos dos factores.
+
+  - Actores Prolíficos y su Rendimiento:
+    Esta consulta, que involucra un JOIN y agregación, muestra la capacidad para identificar a los actores que consistentemente participan en proyectos de alta calidad, según las calificaciones de IMDB y TMDB.
 
 
 
