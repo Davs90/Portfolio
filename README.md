@@ -89,7 +89,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ---
 
-### Portfolio Projects
+# Portfolio Projects
 
 ## Python
 
