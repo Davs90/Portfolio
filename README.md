@@ -91,21 +91,21 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ### Portfolio Projects
 
-##Python
+## Python
 
-#📊 Análisis de Ventas de Super Store
+📊 Análisis de Ventas de Super Store
 [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)  
 
 Este proyecto se centra en el análisis de un conjunto de datos de ventas de una supertienda para descubrir información clave que pueda impulsar la toma de decisiones. El objetivo principal fue identificar los productos y ubicaciones con mayores ventas, así como analizar el rendimiento por categoría y subcategoría para obtener una comprensión profunda de las operaciones del negocio.
 
-#🛠️ Herramientas Utilizadas
+🛠️ Herramientas Utilizadas
 
 - Python: Lenguaje principal utilizado para el análisis y la visualización de datos.
 - Pandas: Usado para la manipulación y el análisis de datos, incluyendo la agrupación y la agregación de ventas por diferentes atributos.
 - Matplotlib: Biblioteca utilizada para crear visualizaciones estáticas, como gráficos de barras, para ilustrar los resultados del análisis.
 - Google Collab: El entorno de desarrollo donde se ejecutó todo el código y se documentó el proceso de análisis.
 
-#📈 Hallazgos Clave
+📈 Hallazgos Clave
 
 El análisis reveló información importante sobre el rendimiento de la supertienda:
 
