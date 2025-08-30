@@ -18,9 +18,9 @@
   <b><a href="">Data Science</a></b>
 </h3>
 
-## Introduccion
+# Introduccion
 
-# Diego Villagra
+## Diego Villagra
 ### Ingeniero Civil Industrial
 
 Soy **Ingeniero Civil Industrial** enfocado en la gestión de empresas. Poseo un perfil analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos, los cuales utilizo para ofrecer soluciones efectivas en la **optimización de procesos** y la **toma de decisiones estratégicas**.
@@ -76,7 +76,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ---
 
-## TABLA DE CONTENIDOS 
+# TABLA DE CONTENIDOS 
 
 - [Introduccion](https://github.com/Davs90/Portfolio/blob/main/README.md#Introduccion)
 - [Portfolio Projects](https://github.com/Davs90/Portfolio/blob/main/README.md#portfolio-projects)
@@ -93,8 +93,9 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 
 ## Python
 
+### [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)
+
 📊 Análisis de Ventas de Super Store
-[Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)  
 
 Este proyecto se centra en el análisis de un conjunto de datos de ventas de una supertienda para descubrir información clave que pueda impulsar la toma de decisiones. El objetivo principal fue identificar los productos y ubicaciones con mayores ventas, así como analizar el rendimiento por categoría y subcategoría para obtener una comprensión profunda de las operaciones del negocio.
 
