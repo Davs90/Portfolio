@@ -94,9 +94,9 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 ---
 
 # Portfolio Projects
-
+---
 ## Python
-
+---
 ### [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)
 
 📊 Análisis de Ventas de Super Store
@@ -122,14 +122,15 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 - Top 10 Ciudades con Mayores Ventas: El análisis de las ventas por ciudad identificó las diez ubicaciones geográficas que contribuyeron más significativamente a los ingresos totales. Este hallazgo es crucial para enfocar los esfuerzos de marketing y logística en estas áreas de alto rendimiento.
 
 - Top 10 Productos más Vendidos: Al agrupar y sumar las ventas por nombre de producto, se identificaron los diez productos más populares. Conocer qué productos son los más vendidos ayuda a optimizar el inventario y las estrategias de promoción.
-
+---
 ## MYSQL
-
+---
 ### [Analisis de visualizacion por peliculas/series en Netflix](https://github.com/Davs90/Portfolio/blob/main/docs/mysql/codigos.sql)
-
+---
 ### [Datasets](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
-
+---
 ### [Visualizacion de Queries](https://github.com/Davs90/Portfolio/tree/main/docs/mysql)
+---
 🎬 Análisis de una Base de Datos de Películas y Series
 
 Este proyecto es un análisis exhaustivo de una base de datos relacional sobre películas y series de televisión. El objetivo principal fue explorar las relaciones entre diferentes atributos (calificaciones, géneros, actores, directores, etc.) para descubrir tendencias, patrones de rendimiento y responder preguntas clave sobre la industria del entretenimiento.
