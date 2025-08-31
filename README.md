@@ -177,33 +177,24 @@ La metodología se centró en formular y responder una serie de preguntas clave 
     Esta consulta, que involucra un JOIN y agregación, muestra la capacidad para identificar a los actores que consistentemente participan en proyectos de alta calidad, según las calificaciones de IMDB y TMDB.
 
 
-
-
-
-
-
-
-
-
-
-
-
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
-
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
-
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+|10 Peliculas Mejor Puntuadas | 10 Series Mejor Puntuadas |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query1.png"/>|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query2.png"/>|
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
 
-| Star Geographic Distribution | Star History |
+
+| Top 10 Peores Peliculas | Top 10 Peores Programas/Series|
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query3.png" />|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query4.png"/>|
+
+| Actores que mas se repiten | Recuento de Programas y Peliculas de Cada Decada |
+| ----------- | ----------- |
+|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query10.png" />|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query6.png" />|
+
+
+
+
+
 
 | Company Affiliation | Lines of Code Changes |
 | ----------- | ----------- |
