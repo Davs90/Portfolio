@@ -190,7 +190,7 @@ La metodología se centró en formular y responder una serie de preguntas clave 
 |<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query10.png" />|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query6.png" />|
 
 
-
+## POWERBI
 
 
 ## Sponsors
