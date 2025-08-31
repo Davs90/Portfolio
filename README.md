@@ -129,7 +129,7 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 
 ### [Datasets](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-
+### [Visualizacion de Queries](https://github.com/Davs90/Portfolio/tree/main/docs/mysql)
 🎬 Análisis de una Base de Datos de Películas y Series
 
 Este proyecto es un análisis exhaustivo de una base de datos relacional sobre películas y series de televisión. El objetivo principal fue explorar las relaciones entre diferentes atributos (calificaciones, géneros, actores, directores, etc.) para descubrir tendencias, patrones de rendimiento y responder preguntas clave sobre la industria del entretenimiento.
