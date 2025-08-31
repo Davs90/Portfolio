@@ -123,7 +123,6 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 - Top 10 Productos más Vendidos: Al agrupar y sumar las ventas por nombre de producto, se identificaron los diez productos más populares. Conocer qué productos son los más vendidos ayuda a optimizar el inventario y las estrategias de promoción.
 ---
 ## MYSQL
----
 ### [Analisis de visualizacion por peliculas/series en Netflix](https://github.com/Davs90/Portfolio/blob/main/docs/mysql/codigos.sql)
 ### [Datasets](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 ### [Visualizacion de Queries](https://github.com/Davs90/Portfolio/tree/main/docs/mysql)
