@@ -125,7 +125,9 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 
 ## MYSQL
 
-### Analisis de visualizacion por peliculas/series en Netflix(https://github.com/Davs90/Portfolio/blob/main/docs/mysql/codigos.sql)
+### [Analisis de visualizacion por peliculas/series en Netflix](https://github.com/Davs90/Portfolio/blob/main/docs/mysql/codigos.sql)
+
+### [Datasets](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
 
 🎬 Análisis de una Base de Datos de Películas y Series
