@@ -96,9 +96,8 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
 # Portfolio Projects
 ---
 ## Python
----
 ### [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)
-
+---
 📊 Análisis de Ventas de Super Store
 
 Este proyecto se centra en el análisis de un conjunto de datos de ventas de una supertienda para descubrir información clave que pueda impulsar la toma de decisiones. El objetivo principal fue identificar los productos y ubicaciones con mayores ventas, así como analizar el rendimiento por categoría y subcategoría para obtener una comprensión profunda de las operaciones del negocio.
@@ -126,9 +125,7 @@ El análisis reveló información importante sobre el rendimiento de la supertie
 ## MYSQL
 ---
 ### [Analisis de visualizacion por peliculas/series en Netflix](https://github.com/Davs90/Portfolio/blob/main/docs/mysql/codigos.sql)
----
 ### [Datasets](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
----
 ### [Visualizacion de Queries](https://github.com/Davs90/Portfolio/tree/main/docs/mysql)
 ---
 🎬 Análisis de una Base de Datos de Películas y Series
