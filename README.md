@@ -88,8 +88,8 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
     - [Analisis de Ventas de Superstore]
   - [Mysql](https://github.com/Davs90/Portfolio/blob/main/README.md#MYSQL)
     - [Analisis de visualizacion por peliculas/series en Netflix]
-  - [Power BI]
-
+  - [Looker Studio]
+    - [Analisis de Inventario y Ventas Empresa Retail]
 
 ---
 
@@ -190,7 +190,10 @@ La metodología se centró en formular y responder una serie de preguntas clave 
 |<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query10.png" />|<img src="https://raw.githubusercontent.com/Davs90/Portfolio/main/docs/mysql/query6.png" />|
 
 
-## POWERBI
+## Looker Studio
+### Analisis de Venta e Inventario
+[Dashboard Retail](https://lookerstudio.google.com/embed/reporting/25c0ab94-5a36-443a-b603-9d3ed5fc46fa/page/NftMF)
+
 
 
 ## Sponsors
