@@ -193,7 +193,61 @@ La metodología se centró en formular y responder una serie de preguntas clave 
 ## Looker Studio
 ### Analisis de Venta e Inventario
 [Dashboard Retail](https://lookerstudio.google.com/embed/reporting/25c0ab94-5a36-443a-b603-9d3ed5fc46fa/page/NftMF)
+📊 Panel de Control de Inventario y Ventas en Looker Studio
 
+Este proyecto se centra en la creación de dos paneles de control interactivos en Looker Studio para visualizar y analizar el rendimiento de inventario y ventas de una tienda minorista. El objetivo fue transformar datos brutos de inventario y transacciones de ventas en dashboards dinámicos que permitan a los líderes de negocio supervisar los KPIs clave, identificar tendencias y tomar decisiones informadas sobre la gestión de productos, inventario y ventas.
+
+🛠️ Herramientas y Tecnologías
+
+- Google Looker Studio: La herramienta principal utilizada para la creación de los paneles de control, incluyendo la conexión de datos, la manipulación de métricas y la creación de visualizaciones interactivas.
+
+- Hojas de Cálculo de Google / Archivos CSV: Fuente de datos para el proyecto, conteniendo información detallada sobre el inventario y las transacciones de ventas.
+
+- Análisis de Datos: Se realizó un análisis de los datos para definir las métricas y dimensiones clave, como el inventario por ubicación, el valor total del stock y el rendimiento de las ventas por vendedor y método de pago.
+
+🧠 Metodología y Objetivos del Proyecto
+
+El proyecto se dividió en dos fases principales, cada una con un objetivo específico:
+
+Panel 1: Gestión de Inventario
+
+Este dashboard se diseñó para proporcionar una visión clara y concisa del inventario actual. Los objetivos principales fueron:
+
+- Estado del Stock: Visualizar el nivel de stock por producto, categoría y ubicación para evitar quiebres o excesos de inventario.
+
+- Valor del Inventario: Calcular el valor total del stock disponible por ubicación (Stock * Precio).
+
+- Identificación de Productos Clave: Determinar los productos más y menos costosos para una gestión de precios y stock más estratégica.
+
+Panel 2: Análisis de Ventas
+
+Este dashboard se enfocó en el rendimiento de las ventas para identificar patrones y optimizar las operaciones comerciales. Los objetivos fueron:
+
+- Rendimiento de Ventas: Seguir las ventas totales, la cantidad de productos vendidos y el precio promedio por transacción.
+
+- Análisis de Vendedores: Evaluar el rendimiento de cada vendedor (Juan, Ana, Sofía) según el total de ventas.
+
+- Preferencias de Pago: Analizar la distribución de ventas por método de pago (Efectivo, Tarjeta, Transferencia) para entender las preferencias del cliente.
+
+💡 Hallazgos Clave
+
+El análisis y la visualización de los datos revelaron información valiosa para la toma de decisiones:
+
+- Inventario: El inventario se distribuye de manera desigual entre las diferentes ubicaciones, con Puerto Montt concentrando una alta cantidad de productos de la categoría de Accesorios_Escritorio.
+
+- Ventas: Se puede observar el rendimiento individual de cada vendedor, destacando las contribuciones de Juan, Ana y Sofía a las ventas totales. El análisis también reveló una clara preferencia por ciertos métodos de pago.
+
+- Productos: El proyector y la impresora láser son los productos de mayor valor en el inventario, mientras que el Bolígrafo Negro y los Clips son los productos más vendidos en términos de cantidad.
+
+💻 Cómo Visualizar los Paneles
+
+Para ver los dashboards y explorar el análisis interactivo, puedes:
+
+En el repositorio, encontrarás los archivos CSV originales:
+
+- datos_inventario.csv
+
+- datos_ventas.csv
 
 
 ## Sponsors
