@@ -1,0 +1,23 @@
+ID_boleta,Fecha_venta,IdProducto,NombreProducto,Cantidad_vendida,Precio_unitario_venta,Total_venta,Metodo_pago,Vendedor
+5,2025-06-04,11,Silla de Oficina,1,103.5,103.5,Efectivo,Juan
+2,2025-06-04,31,Smartwatch,1,92,92,Efectivo,Juan
+9,2025-06-04,27,Perforadora,1,17.25,17.25,Efectivo,Ana
+19,2025-06-04,58,Calculadora Científica,1,28.75,28.75,Efectivo,Juan
+13,2025-06-04,43,Trípode para Cámara,1,28.75,28.75,Tarjeta,Sofía
+6,2025-06-04,53,Marco de Fotos Digital,1,69,69,Tarjeta,Sofía
+1,2025-06-04,39,Cámara Web HD,1,34.5,34.5,Tarjeta,Ana
+15,2025-06-04,45,Soporte para Monitor,1,34.5,34.5,Tarjeta,Ana
+20,2025-06-04,54,Cerradura de Seguridad para Laptop,1,14.95,14.95,Tarjeta,Sofía
+7,2025-06-04,36,Impresora Láser,1,287.5,287.5,Transferencia,Ana
+3,2025-06-04,15,Proyector,1,287.5,287.5,Transferencia,Sofía
+17,2025-06-04,50,Humidificador,1,40.25,40.25,Transferencia,Sofía
+12,2025-06-04,49,Reposapiés,1,46,46,Transferencia,Ana
+10,2025-06-04,18,Funda para Laptop,2,20.7,41.4,Tarjeta,Sofía
+18,2025-06-04,52,Planta de Escritorio (Artificial),2,20.7,41.4,Tarjeta,Ana
+4,2025-06-04,41,Auriculares Bluetooth,2,40.25,80.5,Tarjeta,Ana
+14,2025-06-04,47,Limpiador de Pantallas,3,5.75,17.25,Efectivo,Juan
+11,2025-06-04,21,Libreta,5,2.875,14.375,Efectivo,Juan
+2,2025-06-04,33,Cargador USB,5,10.35,51.75,Efectivo,Juan
+16,2025-06-04,48,Organizador de Cables,10,8.05,80.5,Efectivo,Juan
+8,2025-06-04,22,Bolígrafo Negro,10,1.15,11.5,Efectivo,Juan
+2,2025-06-04,24,Resaltador,20,1.725,34.5,Efectivo,Juan

@@ -1,0 +1,51 @@
+IdProducto,NombreProducto,Ubicacion,Stock,Precio,Categoria_Producto
+18,Funda para Laptop,Concepción,95,18000,Accesorios
+19,Mochila para Laptop,Santiago,65,35000,Accesorios
+45,Soporte para Monitor,La Serena,50,30000,Accesorios_Escritorio
+44,Filtro de Luz Azul,Puerto Montt,100,12000,Accesorios_Escritorio
+46,Alfombrilla de Ratón Ergonómica,Puerto Montt,120,15000,Accesorios_Escritorio
+48,Organizador de Cables,Puerto Montt,150,7000,Accesorios_Escritorio
+51,Ventilador de Escritorio,Rancagua,75,25000,Accesorios_Escritorio
+43,Trípode para Cámara,La Serena,45,25000,Accesorios_Fotografia
+40,Tarjeta de Memoria 64GB,Temuco,130,15000,Almacenamiento
+41,Auriculares Bluetooth,La Serena,85,35000,Audio
+42,Altavoz Bluetooth,Puerto Montt,60,50000,Audio
+39,Cámara Web HD,Antofagasta,70,30000,Electrónica
+33,Cargador USB,Antofagasta,180,9000,Electrónica
+15,Proyector,Concepción,10,250000,Electrónica
+16,Cable HDMI,Santiago,150,8000,Electrónica
+34,Batería Externa,Temuco,115,20000,Electrónica
+32,Tablet,Temuco,25,200000,Electrónica
+38,Micrófono USB,Temuco,55,45000,Electrónica
+17,Adaptador USB,Valparaíso,120,10000,Electrónica
+50,Humidificador,Puerto Montt,25,35000,Hogar
+52,Planta de Escritorio (Artificial),Punta Arenas,40,18000,Hogar
+53,Marco de Fotos Digital,Rancagua,15,60000,Hogar
+35,Lector de Libros Electrónicos,Antofagasta,30,150000,Lectura_Digital
+47,Limpiador de Pantallas,La Serena,90,5000,Limpieza
+49,Reposapiés,La Serena,30,40000,Muebles_Oficina
+11,Silla de Oficina,Santiago,35,90000,Muebles_Oficina
+12,Escritorio,Valparaíso,20,180000,Muebles_Oficina
+24,Resaltador,Concepción,180,1500,Oficina
+30,Post-it,Concepción,220,3000,Oficina
+27,Perforadora,Concepción,40,15000,Oficina
+21,Libreta,Concepción,250,2500,Oficina
+58,Calculadora Científica,Punta Arenas,35,25000,Oficina
+56,Rotuladores para Pizarra Blanca,Punta Arenas,110,7000,Oficina
+60,Regla,Punta Arenas,200,1500,Oficina
+57,Borrador para Pizarra Blanca,Rancagua,140,3500,Oficina
+55,Pizarra de Corcho,Rancagua,28,40000,Oficina
+59,Cutter,Rancagua,95,3000,Oficina
+22,Bolígrafo Negro,Santiago,300,1000,Oficina
+28,Tijeras,Santiago,110,6000,Oficina
+25,Clips,Santiago,400,500,Oficina
+13,Lámpara de Escritorio,Santiago,70,28000,Oficina
+14,Pizarra Blanca,Valparaíso,15,150000,Oficina
+20,Agenda,Valparaíso,200,4000,Oficina
+26,Grapadora,Valparaíso,50,15000,Oficina
+23,Bolígrafo Azul,Valparaíso,280,1000,Oficina
+29,Cinta Adhesiva,Valparaíso,160,3000,Oficina
+37,Scanner,Antofagasta,22,120000,Oficina_Tecnologica
+36,Impresora Láser,Temuco,18,250000,Oficina_Tecnologica
+54,Cerradura de Seguridad para Laptop,Punta Arenas,60,13000,Seguridad
+31,Smartwatch,Antofagasta,40,80000,Wearables
