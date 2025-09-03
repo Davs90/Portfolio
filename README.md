@@ -22,10 +22,7 @@
   <b><a href="">Data Science</a></b>
 </h3>
 
-# Introduccion
-
-## Diego Villagra
-### Ingeniero Civil Industrial
+# Presentación
 
 Soy **Ingeniero Civil Industrial** enfocado en la gestión de empresas. Poseo un perfil analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos, los cuales utilizo para ofrecer soluciones efectivas en la **optimización de procesos** y la **toma de decisiones estratégicas**.
 
@@ -89,7 +86,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
   - [Mysql](https://github.com/Davs90/Portfolio/blob/main/README.md#MYSQL)
     - [Analisis de visualizacion por peliculas/series en Netflix]
   - [Looker Studio]
-    - [Analisis de Inventario y Ventas Empresa Retail](https://github.com/Davs90/Portfolio/blob/main/README.md#Looker Studio)
+    - [Analisis de Inventario y Ventas Empresa Retail]((https://github.com/Davs90/Portfolio/blob/main/README.md#Looker Studio)
 
 ---
 
