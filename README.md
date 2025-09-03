@@ -86,7 +86,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
   - [Mysql](https://github.com/Davs90/Portfolio/blob/main/README.md#MYSQL)
     - [Analisis de visualizacion por peliculas/series en Netflix]
   - [Looker Studio]
-    - [Analisis de Inventario y Ventas Empresa Retail]((https://github.com/Davs90/Portfolio/blob/main/README.md#Looker Studio)
+    - [Analisis de Inventario y Ventas Empresa Retail](https://github.com/Davs90/Portfolio/blob/main/README.md#Looker Studio)
 
 ---
 
