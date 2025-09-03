@@ -22,7 +22,7 @@
   <b><a href="">Data Science</a></b>
 </h3>
 
-# Presentación
+## Presentación
 
 Soy **Ingeniero Civil Industrial** enfocado en la gestión de empresas. Poseo un perfil analítico, con sólidos conocimientos en el procesamiento, análisis y presentación de datos, los cuales utilizo para ofrecer soluciones efectivas en la **optimización de procesos** y la **toma de decisiones estratégicas**.
 
@@ -89,7 +89,7 @@ Actualmente, trabajo en el equipo de innovación de **[Zenta Group](https://zent
     - [Analisis de Inventario y Ventas Empresa Retail]
 ---
 
-# Portfolio Projects
+## Portfolio Projects
 ---
 ## Python
 ### [Analisis de Ventas de Superstore/SuperstoreSales.ipynb](https://github.com/Davs90/Portfolio/blob/main/SuperstoreSales.ipynb)
